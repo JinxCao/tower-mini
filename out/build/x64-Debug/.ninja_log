@@ -1,0 +1,9 @@
+# ninja log v6
+13	2570	7838741805817903	CMakeFiles/tower_mini.dir/src/main.cpp.obj	e4ffc8f802caa7e3
+649	2578	7838741812173897	CMakeFiles/tower_mini.dir/src/game.cpp.obj	38062e83fc463350
+2579	6908	7838741831473337	tower_mini.exe	bc5683f48740dad8
+22	63	7838741804970484	clean	8c45b54705a541e8
+6	47	7838780548475662	clean	8c45b54705a541e8
+9	461	7838780549311632	CMakeFiles/tower_mini.dir/src/main.cpp.obj	ad02b76cf217782e
+27	577	7838780549481512	CMakeFiles/tower_mini.dir/src/game.cpp.obj	abcedaac8e64ad4d
+577	1867	7838780554988676	tower_mini.exe	335137c5c02b8b19

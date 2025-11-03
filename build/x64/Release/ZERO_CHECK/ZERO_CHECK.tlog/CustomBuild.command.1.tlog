@@ -1,0 +1,10 @@
+^E:\FXXK\VALLEY\BUILD\CMAKEFILES\C2B9FF8AF7717FBD38D1B10324A06FB2\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SE:/FXXK/valley -BE:/FXXK/valley/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file E:/FXXK/valley/build/tower_mini.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
