@@ -1,0 +1,23 @@
+﻿  tower_mini.vcxproj -> E:\FXXK\valley\vs2022\Release\tower_mini.exe
+  Error copying file (if different) from "E:/FXXK/valley/third_party/SDL2/lib/x64/SDL2.dll" to "E:/FXXK/valley/vs2022/Release".
+  Error copying file (if different) from "E:/FXXK/valley/third_party/SDL2_image/lib/x64/SDL2_image.dll" to "E:/FXXK/valley/vs2022/Release".
+  Error copying file (if different) from "E:/FXXK/valley/third_party/SDL2_image/lib/x64/libpng16.dll" to "E:/FXXK/valley/vs2022/Release".
+  Error copying file (if different) from "E:/FXXK/valley/third_party/SDL2_image/lib/x64/zlib1.dll" to "E:/FXXK/valley/vs2022/Release".
+  Error copying file (if different) from "E:/FXXK/valley/third_party/SDL2_image/lib/x64/brotlicommon.dll" to "E:/FXXK/valley/vs2022/Release".
+  Error copying file (if different) from "E:/FXXK/valley/third_party/SDL2_image/lib/x64/brotlidec.dll" to "E:/FXXK/valley/vs2022/Release".
+  Error copying file (if different) from "E:/FXXK/valley/third_party/SDL2_image/lib/x64/bz2.dll" to "E:/FXXK/valley/vs2022/Release".
+  Error copying file (if different) from "E:/FXXK/valley/third_party/SDL2_ttf/lib/x64/SDL2_ttf.dll" to "E:/FXXK/valley/vs2022/Release".
+  Error copying file (if different) from "E:/FXXK/valley/third_party/SDL2_ttf/lib/x64/freetype.dll" to "E:/FXXK/valley/vs2022/Release".
+  Error copying file (if different) from "E:/FXXK/valley/third_party/SDL2_mixer/lib/x64/libmpg123-0.dll" to "E:/FXXK/valley/vs2022/Release".
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(166,5): error MSB3073: 命令“setlocal
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(166,5): error MSB3073: "C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different E:/FXXK/valley/third_party/SDL2/lib/x64/SDL2.dll E:/FXXK/valley/third_party/SDL2_image/lib/x64/SDL2_image.dll E:/FXXK/valley/third_party/SDL2_image/lib/x64/libpng16.dll E:/FXXK/valley/third_party/SDL2_image/lib/x64/zlib1.dll E:/FXXK/valley/third_party/SDL2_image/lib/x64/brotlicommon.dll E:/FXXK/valley/third_party/SDL2_image/lib/x64/brotlidec.dll E:/FXXK/valley/third_party/SDL2_image/lib/x64/bz2.dll E:/FXXK/valley/third_party/SDL2_ttf/lib/x64/SDL2_ttf.dll E:/FXXK/valley/third_party/SDL2_ttf/lib/x64/freetype.dll E:/FXXK/valley/third_party/SDL2_mixer/lib/x64/SDL2_mixer.dll E:/FXXK/valley/third_party/SDL2_mixer/lib/x64/libmpg123-0.dll E:/FXXK/valley/vs2022/Release
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(166,5): error MSB3073: if %errorlevel% neq 0 goto :cmEnd
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(166,5): error MSB3073: "C:\Program Files\CMake\bin\cmake.exe" -E copy_directory E:/FXXK/valley/assets E:/FXXK/valley/vs2022/Release/assets
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(166,5): error MSB3073: if %errorlevel% neq 0 goto :cmEnd
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(166,5): error MSB3073: :cmEnd
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(166,5): error MSB3073: endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(166,5): error MSB3073: :cmErrorLevel
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(166,5): error MSB3073: exit /b %1
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(166,5): error MSB3073: :cmDone
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(166,5): error MSB3073: if %errorlevel% neq 0 goto :VCEnd
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(166,5): error MSB3073: :VCEnd”已退出，代码为 1。
