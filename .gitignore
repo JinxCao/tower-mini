@@ -1,0 +1,24 @@
+# Visual Studio cache
+.vs/
+*.vcxproj*
+*.suo
+*.user
+*.db
+*.opendb
+*.VC.db
+
+# Build output
+out/
+vs2022/
+build/
+x64/
+Release/
+Debug/
+
+# Temporary
+*.log
+*.tmp
+
+# OS
+Thumbs.db
+.DS_Store

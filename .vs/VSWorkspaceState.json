@@ -8,8 +8,9 @@
     ]
   },
   "ExpandedNodes": [
-    ""
+    "",
+    "\\build"
   ],
-  "SelectedNode": "\\out",
+  "SelectedNode": "\\CMakeLists.txt",
   "PreviewInSolutionExplorer": false
 }
